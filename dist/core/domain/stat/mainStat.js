@@ -7,3 +7,4 @@ const stringValueObject_1 = __importDefault(require("../../../shared/stringValue
 class MainStat extends stringValueObject_1.default {
 }
 exports.default = MainStat;
+//# sourceMappingURL=mainStat.js.map

@@ -17,3 +17,4 @@ class Artifact {
     }
 }
 exports.default = Artifact;
+//# sourceMappingURL=artifact.js.map

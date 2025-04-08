@@ -13,3 +13,4 @@ class NumberValueObject extends valueObject_1.default {
     }
 }
 exports.default = NumberValueObject;
+//# sourceMappingURL=numberValueObject.js.map

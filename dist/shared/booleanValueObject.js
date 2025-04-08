@@ -7,3 +7,4 @@ const valueObject_1 = __importDefault(require("./valueObject"));
 class BooleanValueObject extends valueObject_1.default {
 }
 exports.default = BooleanValueObject;
+//# sourceMappingURL=booleanValueObject.js.map

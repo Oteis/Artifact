@@ -19,3 +19,4 @@ class ValueObject {
     }
 }
 exports.default = ValueObject;
+//# sourceMappingURL=valueObject.js.map

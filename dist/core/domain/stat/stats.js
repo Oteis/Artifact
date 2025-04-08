@@ -9,3 +9,4 @@ class Stats {
     }
 }
 exports.default = Stats;
+//# sourceMappingURL=stats.js.map

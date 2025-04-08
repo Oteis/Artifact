@@ -17,3 +17,4 @@ class StringValueObject extends valueObject_1.default {
     }
 }
 exports.default = StringValueObject;
+//# sourceMappingURL=stringValueObject.js.map

@@ -7,3 +7,4 @@ const stringValueObject_1 = __importDefault(require("../../../shared/stringValue
 class StatsOrder extends stringValueObject_1.default {
 }
 exports.default = StatsOrder;
+//# sourceMappingURL=statsOrder.js.map
